@@ -1,13 +1,16 @@
-## Bienvenidos!
+# Bienvenidos!
 
 You can use the [editor on GitHub](https://github.com/rodriman92/rodriman.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Mi nombre es Rodrigo. Soy Analista Programador en Desarrollo de Aplicaciones. Actualmente trabajo con ASP.NET MVC, pero siempre estoy tratando de aprender nuevas tecnologías.
 
-### Markdown
+### Habilidades
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+- HTML5
+- CSS3
+- Javascript
+- ASP .NET MVC
+- SQL SERVER
 ```markdown
 Syntax highlighted code block
 
