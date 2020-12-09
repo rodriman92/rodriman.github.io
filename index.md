@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bienvenidos!
 
 You can use the [editor on GitHub](https://github.com/rodriman92/rodriman.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mi nombre es Rodrigo. Soy Analista Programador en Desarrollo de Aplicaciones. Actualmente trabajo con ASP.NET MVC, pero siempre estoy tratando de aprender nuevas tecnologías.
 
 ### Markdown
 
